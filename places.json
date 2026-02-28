@@ -1,0 +1,158 @@
+{
+  "coruña": {
+    "id": null,
+    "query": "coruña"
+  },
+  "vigo": {
+    "query": "vigo",
+    "id": "46586",
+    "name": "Vigo",
+    "municipality": "MALPICA DE BERGANTIÑOS",
+    "province": "A Coruña",
+    "type": "locality"
+  },
+  "santiago de compostela": {
+    "query": "santiago de compostela",
+    "id": "71938",
+    "name": "Santiago de Compostela",
+    "municipality": "SANTIAGO DE COMPOSTELA",
+    "province": "A Coruña",
+    "type": "locality"
+  },
+  "ferrol": {
+    "query": "ferrol",
+    "id": "44331",
+    "name": "Ferrol",
+    "municipality": "CARBALLO",
+    "province": "A Coruña",
+    "type": "locality"
+  },
+  "pontevedra": {
+    "query": "pontevedra",
+    "id": "71954",
+    "name": "Pontevedra",
+    "municipality": "PONTEVEDRA",
+    "province": "Pontevedra",
+    "type": "locality"
+  },
+  "lugo": {
+    "query": "lugo",
+    "id": "71940",
+    "name": "Lugo",
+    "municipality": "LUGO",
+    "province": "Lugo",
+    "type": "locality"
+  },
+  "ourense": {
+    "query": "ourense",
+    "id": "71953",
+    "name": "Ourense",
+    "municipality": "OURENSE",
+    "province": "Ourense",
+    "type": "locality"
+  },
+  "baiona": {
+    "query": "baiona",
+    "id": "66078",
+    "name": "Baiona",
+    "municipality": "BAIONA",
+    "province": "Pontevedra",
+    "type": "locality"
+  },
+  "ribeira": {
+    "query": "ribeira",
+    "id": "63841",
+    "name": "Ribeira",
+    "municipality": "LEIRO",
+    "province": "Ourense",
+    "type": "locality"
+  },
+  "cedeira": {
+    "query": "cedeira",
+    "id": "44696",
+    "name": "Cedeira",
+    "municipality": "CEDEIRA",
+    "province": "A Coruña",
+    "type": "locality"
+  },
+  "fisterra": {
+    "query": "fisterra",
+    "id": "45968",
+    "name": "Fisterra",
+    "municipality": "FISTERRA",
+    "province": "A Coruña",
+    "type": "locality"
+  },
+  "malpica": {
+    "query": "malpica",
+    "id": "46563",
+    "name": "Malpica",
+    "municipality": "MALPICA DE BERGANTIÑOS",
+    "province": "A Coruña",
+    "type": "locality"
+  },
+  "sanxenxo": {
+    "query": "sanxenxo",
+    "id": "70680",
+    "name": "Sanxenxo",
+    "municipality": "SANXENXO",
+    "province": "Pontevedra",
+    "type": "locality"
+  },
+  "cambados": {
+    "query": "cambados",
+    "id": "66219",
+    "name": "Cambados",
+    "municipality": "CAMBADOS",
+    "province": "Pontevedra",
+    "type": "locality"
+  },
+  "viveiro": {
+    "query": "viveiro",
+    "id": "63265",
+    "name": "Viveiro",
+    "municipality": "CELANOVA",
+    "province": "Ourense",
+    "type": "locality"
+  },
+  "o grove": {
+    "query": "o grove",
+    "id": "68057",
+    "name": "O Grove",
+    "municipality": "GROVE (O)",
+    "province": "Pontevedra",
+    "type": "locality"
+  },
+  "cangas": {
+    "query": "cangas",
+    "id": "68184",
+    "name": "Cangas",
+    "municipality": "LALÍN",
+    "province": "Pontevedra",
+    "type": "locality"
+  },
+  "mondonedo": {
+    "id": null,
+    "query": "mondonedo"
+  },
+  "a guarda": {
+    "query": "a guarda",
+    "id": "68089",
+    "name": "A Guarda",
+    "municipality": "GUARDA (A)",
+    "province": "Pontevedra",
+    "type": "locality"
+  },
+  "xinzo": {
+    "query": "xinzo",
+    "id": "65251",
+    "name": "Xinzo",
+    "municipality": "SAN AMARO",
+    "province": "Ourense",
+    "type": "locality"
+  },
+  "a coruña": {
+    "id": null,
+    "query": "a coruña"
+  }
+}
